@@ -46,8 +46,8 @@ const Portfolio: React.FC = () => {
   const [activeSection, setActiveSection] = useState<string>('hero');
   const [scrollProgress, setScrollProgress] = useState<number>(0);
 
-  const githubURL = "https://github.com/yourusername";
-  const linkedinURL = "https://linkedin.com/in/yourusername";
+  const githubURL = "https://github.com/SHASHANKJHAA";
+  const linkedinURL = "https://linkedin.com/in/shashank-jha-63877a2a9";
 
   useEffect(() => {
     animate('.hero-title span', {
