@@ -744,7 +744,7 @@ const Portfolio: React.FC = () => {
       <footer className="relative py-8 px-6 border-t border-slate-800/50">
         <div className="max-w-7xl mx-auto text-center text-gray-400 text-sm">
           <p className="mb-2">Pune, Maharashtra 411036</p>
-          <p>© 2026 Shashank Shekhar Jha. Built with React & Tailwind CSS</p>
+          <p>© 2026 Shashank Shekhar Jha. Built with NextJs & Tailwind CSS</p>
         </div>
       </footer>
 
