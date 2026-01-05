@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useRef, useState } from 'react';
-import { Mail, Phone, MapPin, Github, Linkedin, ExternalLink, Code, Briefcase, Award, GraduationCap, Terminal, FileText, Download, X, ChevronDown, Menu, Zap, Database, Layout, Server } from 'lucide-react';
+import { Mail, Phone, MapPin, Github, Linkedin , Code, Briefcase, Award, GraduationCap, Terminal, FileText, Download, X, ChevronDown, Menu, Zap, Database, Layout, Server } from 'lucide-react';
 import { animate, stagger } from 'animejs';
 import Image from "next/image";
 
