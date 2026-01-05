@@ -415,7 +415,7 @@ const Portfolio: React.FC = () => {
 
           <div className="hero-buttons flex gap-4 sm:gap-6 justify-center items-center flex-wrap px-4">
             <a
-              href="mailto:logssj@gmail.com"
+              href="mailto:shashanksj.dev@gmail.com"
               className="group flex items-center gap-3 px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/50 font-semibold text-sm sm:text-base"
             >
               <Mail size={20} />
@@ -702,11 +702,11 @@ const Portfolio: React.FC = () => {
 
           <div className="flex flex-wrap gap-4 sm:gap-6 justify-center mb-12 px-4">
             <a
-              href="mailto:logssj@gmail.com"
+              href="mailto:shashanksj.dev@gmail.com"
               className="flex items-center gap-3 px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/50 font-semibold text-sm sm:text-base"
             >
               <Mail size={20} />
-              <span className="hidden sm:inline">logssj@gmail.com</span>
+              <span className="hidden sm:inline">shashanksj.dev@gmail.com</span>
               <span className="sm:hidden">Email</span>
             </a>
             <a
@@ -781,7 +781,7 @@ const Portfolio: React.FC = () => {
                 <div>
                   <h4 className="text-xl font-bold text-blue-300 mb-4">Contact Information</h4>
                   <div className="space-y-2">
-                    <p className="flex items-center gap-2"><Mail size={16} /> logssj@gmail.com</p>
+                    <p className="flex items-center gap-2"><Mail size={16} /> shashanksj.dev@gmail.com</p>
                     <p className="flex items-center gap-2"><Phone size={16} /> 8130049299</p>
                     <p className="flex items-center gap-2"><MapPin size={16} /> Pune, Maharashtra 411036</p>
                   </div>
