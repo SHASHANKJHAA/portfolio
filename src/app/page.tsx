@@ -414,14 +414,6 @@ const Portfolio: React.FC = () => {
           </p>
 
           <div className="hero-buttons flex gap-4 sm:gap-6 justify-center items-center flex-wrap px-4">
-            <a
-              href="mailto:shashanksj.dev@gmail.com"
-              className="group flex items-center gap-3 px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/50 font-semibold text-sm sm:text-base"
-            >
-              <Mail size={20} />
-              Get in Touch
-              <ExternalLink size={16} className="group-hover:translate-x-1 transition-transform" />
-            </a>
             <button
               onClick={() => setShowCV(true)}
               className="group flex items-center gap-3 px-6 sm:px-8 py-3 sm:py-4 bg-slate-800/80 backdrop-blur rounded-full border border-slate-700 hover:border-blue-500/60 transition-all duration-300 hover:scale-105 font-semibold text-sm sm:text-base"
